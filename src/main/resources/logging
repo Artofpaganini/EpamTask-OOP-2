@@ -1,0 +1,40 @@
+2020-08-07 10:04:45 INFO  TaxiStationLogic: 42 - Trying to get car list
+2020-08-07 10:04:45 INFO  TaxiStationLogic: 47 - Car list is  getting
+2020-08-07 10:04:45 INFO  TaxiStationLogic: 54 -  Trying to get car list
+2020-08-07 10:04:45 INFO  TaxiStationLogic: 61 - Сost of all cars: 4530.0
+2020-08-07 10:04:45 INFO  TaxiStationLogic: 70 - Trying to get sorted, by fuel consumption, car list
+2020-08-07 10:04:45 INFO  TaxiStationLogic: 83 - Got sorted, by fuel consumption, car list
+2020-08-07 10:04:45 INFO  TaxiStationLogic: 42 - Trying to get car list
+2020-08-07 10:04:45 INFO  TaxiStationLogic: 47 - Car list is  getting
+2020-08-07 10:04:45 INFO  TaxiStationLogic: 130 - Trying to get car list  by  speed  range
+2020-08-07 10:04:45 INFO  TaxiStationLogic: 95 - Trying to check, min/max values on  the right conditions
+2020-08-07 10:04:45 INFO  TaxiStationLogic: 101 - min/max have correct values
+2020-08-07 10:04:45 INFO  TaxiStationLogic: 112 - Trying to check, is car list  is empty
+2020-08-07 10:04:45 WARN  TaxiStationLogic: 118 - car list is not empty
+2020-08-07 10:04:45 INFO  TaxiStationLogic: 152 - Got car list  with  special   range of speed
+2020-08-07 10:04:45 INFO  TaxiStationLogic: 42 - Trying to get car list
+2020-08-07 10:04:45 INFO  TaxiStationLogic: 47 - Car list is  getting
+2020-08-07 11:39:13 INFO  TaxiStationLogic: 70 - Trying to get sorted, by fuel consumption, car list
+2020-08-07 11:39:13 INFO  TaxiStationLogic: 83 - Got sorted, by fuel consumption, car list
+2020-08-07 11:39:40 INFO  TaxiStationLogic: 70 - Trying to get sorted, by fuel consumption, car list
+2020-08-07 11:39:40 INFO  TaxiStationLogic: 83 - Got sorted, by fuel consumption, car list
+2020-08-07 11:41:06 INFO  TaxiStationLogic: 70 - Trying to get sorted, by fuel consumption, car list
+2020-08-07 11:41:06 INFO  TaxiStationLogic: 83 - Got sorted, by fuel consumption, car list
+2020-08-07 11:50:26 INFO  TaxiStationLogic: 95 - Trying to check, min/max values on  the right conditions
+2020-08-07 11:50:26 INFO  TaxiStationLogic: 101 - min/max have correct values
+2020-08-07 11:50:41 INFO  TaxiStationLogic: 95 - Trying to check, min/max values on  the right conditions
+2020-08-07 11:50:41 WARN  TaxiStationLogic: 98 - min/max have incorrect values
+2020-08-07 11:50:51 INFO  TaxiStationLogic: 95 - Trying to check, min/max values on  the right conditions
+2020-08-07 11:50:51 WARN  TaxiStationLogic: 98 - min/max have incorrect values
+2020-08-07 11:50:59 INFO  TaxiStationLogic: 95 - Trying to check, min/max values on  the right conditions
+2020-08-07 11:50:59 INFO  TaxiStationLogic: 101 - min/max have correct values
+2020-08-07 11:51:26 INFO  TaxiStationLogic: 95 - Trying to check, min/max values on  the right conditions
+2020-08-07 11:51:26 WARN  TaxiStationLogic: 98 - min/max have incorrect values
+2020-08-07 11:57:21 INFO  TaxiStationLogic: 95 - Trying to check, min/max values on  the right conditions
+2020-08-07 11:57:21 WARN  TaxiStationLogic: 98 - min/max have incorrect values
+2020-08-07 11:57:27 INFO  TaxiStationLogic: 95 - Trying to check, min/max values on  the right conditions
+2020-08-07 11:57:27 INFO  TaxiStationLogic: 101 - min/max have correct values
+2020-08-07 12:00:32 INFO  TaxiStationLogic: 112 - Trying to check, is car list  is empty
+2020-08-07 12:00:32 WARN  TaxiStationLogic: 118 - car list is not empty
+2020-08-07 12:01:11 INFO  TaxiStationLogic: 112 - Trying to check, is car list  is empty
+2020-08-07 12:01:11 INFO  TaxiStationLogic: 115 - car list is empty
